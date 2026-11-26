@@ -4227,7 +4227,7 @@ function loadFace() {
 const [wallData, wallText] = await Promise.all([
   fetch(`wall.json?v=${ASSET_V}`).then((response) => (response.ok ? response.json() : null)).catch(() => null),
   fetch(`wall.txt?v=${ASSET_V}`).then((response) => (response.ok ? response.text() : "")).catch(() => ""),
-  document.fonts.load(`${FONT_PX}px "Plex Mono"`),
+  document.fonts?.load ? document.fonts.load(`${FONT_PX}px "Plex Mono"`).catch(() => null) : Promise.resolve(),
 ]);
 visit = planVisit(wallData, wallText);
 useTheme(visit.theme);
