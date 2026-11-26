@@ -8,14 +8,14 @@
    "month": "2026-01",
    "top": [
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 12
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 18
     },
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 4
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 10
     }
    ]
   },
@@ -23,14 +23,14 @@
    "month": "2026-02",
    "top": [
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 19
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 11
     },
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 9
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 8
     }
    ]
   },
@@ -38,14 +38,14 @@
    "month": "2026-03",
    "top": [
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 26
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 18
     },
     {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 14
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 8
     }
    ]
   },
@@ -53,14 +53,14 @@
    "month": "2026-04",
    "top": [
     {
-     "repo": "schemasync",
-     "owner": "alexrivera",
-     "commits": 33
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 14
     },
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 5
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 6
     }
    ]
   },
@@ -68,14 +68,14 @@
    "month": "2026-05",
    "top": [
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 17
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 9
     },
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 10
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 11
     }
    ]
   },
@@ -83,14 +83,14 @@
    "month": "2026-06",
    "top": [
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 24
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 11
     },
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 15
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 6
     }
    ]
   },
@@ -98,14 +98,14 @@
    "month": "2026-07",
    "top": [
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 31
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 17
     },
     {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 6
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 4
     }
    ]
   },
@@ -113,14 +113,14 @@
    "month": "2026-08",
    "top": [
     {
-     "repo": "schemasync",
-     "owner": "alexrivera",
-     "commits": 15
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 19
     },
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 11
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 12
     }
    ]
   },
@@ -128,14 +128,14 @@
    "month": "2026-09",
    "top": [
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 22
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 14
     },
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 16
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 4
     }
    ]
   },
@@ -143,14 +143,14 @@
    "month": "2026-10",
    "top": [
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 29
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
+     "commits": 19
     },
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 7
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 11
     }
    ]
   },
@@ -158,14 +158,14 @@
    "month": "2026-11",
    "top": [
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
+     "repo": "Agentic-AI-Data-Scientist",
+     "owner": "raghunath485",
      "commits": 13
     },
     {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 12
+     "repo": "Mental-Wellness-Buddy",
+     "owner": "raghunath485",
+     "commits": 10
     }
    ]
   }

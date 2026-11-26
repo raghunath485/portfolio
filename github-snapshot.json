@@ -1,36 +1,30 @@
 {
- "account": "alexrivera",
- "followers": 248,
- "profile": "https://github.com/alexrivera",
+ "account": "raghunath485",
+ "followers": 12,
+ "profile": "https://github.com/raghunath485",
  "stars": {
-  "total": 312,
-  "own": 312,
+  "total": 15,
+  "own": 15,
   "marketplace": 0,
-  "repositoryCount": 24,
+  "repositoryCount": 8,
   "scope": "Public owned non-fork repositories",
   "repositories": [
    {
-    "name": "alexrivera/pulsedb",
-    "url": "https://github.com/alexrivera/pulsedb",
-    "stars": 164,
+    "name": "raghunath485/Agentic-AI-Data-Scientist",
+    "url": "https://github.com/raghunath485",
+    "stars": 8,
     "extra": false
    },
    {
-    "name": "alexrivera/termflow",
-    "url": "https://github.com/alexrivera/termflow",
-    "stars": 89,
+    "name": "raghunath485/Mental-Wellness-Buddy",
+    "url": "https://github.com/raghunath485",
+    "stars": 5,
     "extra": false
    },
    {
-    "name": "alexrivera/tracekit",
-    "url": "https://github.com/alexrivera/tracekit",
-    "stars": 42,
-    "extra": false
-   },
-   {
-    "name": "alexrivera/schemasync",
-    "url": "https://github.com/alexrivera/schemasync",
-    "stars": 17,
+    "name": "raghunath485/Nmap-GUI-Scanner",
+    "url": "https://github.com/raghunath485",
+    "stars": 2,
     "extra": false
    }
   ]

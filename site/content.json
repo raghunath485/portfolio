@@ -1,163 +1,25 @@
 {
- "owner": "alexrivera",
- "fetchedAt": "2026-11-25T09:11:39.315Z",
+ "owner": "raghunath485",
+ "fetchedAt": "2026-11-26T17:30:12.568Z",
  "about": {
-  "repo": "alexrivera",
+  "repo": "raghunath485",
   "lines": [
-   "# Alex Rivera",
+   "# Raghunath Panda",
    "",
-   "Systems and full-stack engineer building developer tools, distributed storage engines, and open-source software.",
+   "Computer Science & AI undergraduate at KIIT University building practical AI, intelligent agents, and data-driven systems.",
    "",
-   "San Francisco · Open Source",
+   "Bhubaneswar, India · Seeking AI/ML & SWE Internships",
    "",
-   "[GitHub](https://github.com/alexrivera)",
-   "[LinkedIn](https://www.linkedin.com/in/alexrivera)",
-   "[X / Twitter](https://x.com/alexrivera)",
-   "[Blog](https://alexrivera.dev/blog)"
+   "[GitHub](https://github.com/raghunath485)",
+   "[LinkedIn](https://www.linkedin.com/in/raghunathpanda)"
   ]
  },
  "projects": [
   {
-   "repo": "pulsedb",
-   "url": "https://github.com/alexrivera/pulsedb",
-   "description": "An embedded time-series storage engine written in Rust with sub-millisecond range queries and vectorized compression.",
-   "tag": "Database · Rust",
-   "stars": null,
-   "language": "Rust",
-   "pushed": null,
-   "forks": null,
-   "watchers": null,
-   "issues": null,
-   "license": null,
-   "created": null,
-   "branch": "main",
-   "commits": null,
-   "files": null,
-   "counts": {},
-   "github": "https://github.com/alexrivera/pulsedb",
-   "stack": [
-    "Rust",
-    "SQLite",
-    "WebAssembly",
-    "TypeScript"
-   ],
-   "images": [
-    {
-     "file": "shots/project-1.svg",
-     "source": "shots/project-1.svg",
-     "alt": "PulseDB screenshot 1",
-     "xray": false
-    }
-   ],
-   "lines": [
-    "# PulseDB",
-    "",
-    "\u0001IMG0\u0001",
-    "",
-    "### An embedded time-series storage engine written in Rust with sub-millisecond range queries and vectorized compression.",
-    "",
-    "PulseDB is a lightweight embedded time-series database designed for edge",
-    "telemetry and local developer metrics. It features gorilla-style delta",
-    "encoding, memory-mapped segment files, and a zero-allocation query iterator.",
-    "",
-    "Built with Rust · SQLite · WebAssembly · TypeScript",
-    "",
-    "[Visit](https://github.com/alexrivera/pulsedb)"
-   ]
-  },
-  {
-   "repo": "termflow",
-   "url": "https://github.com/alexrivera/termflow",
-   "description": "A fast terminal multiplexer and task runner with live dependency graphs and structured log filtering.",
-   "tag": "CLI · Go",
-   "stars": null,
-   "language": "Go",
-   "pushed": null,
-   "forks": null,
-   "watchers": null,
-   "issues": null,
-   "license": null,
-   "created": null,
-   "branch": "main",
-   "commits": null,
-   "files": null,
-   "counts": {},
-   "github": "https://github.com/alexrivera/termflow",
-   "stack": [
-    "Go",
-    "Terminal",
-    "Docker",
-    "Linux"
-   ],
-   "images": [
-    {
-     "file": "shots/project-2.svg",
-     "source": "shots/project-2.svg",
-     "alt": "TermFlow screenshot 1",
-     "xray": false
-    }
-   ],
-   "lines": [
-    "# TermFlow",
-    "",
-    "\u0001IMG0\u0001",
-    "",
-    "### A fast terminal multiplexer and task runner with live dependency graphs and structured log filtering.",
-    "",
-    "TermFlow orchestrates local microservices and build pipelines from a single",
-    "declarative manifest. It streams colorized output, detects port conflicts",
-    "automatically, and exports execution timelines.",
-    "",
-    "Built with Go · Terminal · Docker · Linux",
-    "",
-    "[Visit](https://github.com/alexrivera/termflow)"
-   ]
-  },
-  {
-   "repo": "tracekit",
-   "url": "https://github.com/alexrivera/tracekit",
-   "description": "Zero-overhead OpenTelemetry trace viewer that runs entirely in the browser from JSONL trace dumps.",
-   "tag": "Observability · TypeScript",
-   "stars": null,
-   "language": "TypeScript",
-   "pushed": null,
-   "forks": null,
-   "watchers": null,
-   "issues": null,
-   "license": null,
-   "created": null,
-   "branch": "main",
-   "commits": null,
-   "files": null,
-   "counts": {},
-   "github": "https://github.com/alexrivera/tracekit",
-   "stack": [
-    "TypeScript",
-    "React",
-    "Canvas",
-    "OpenTelemetry"
-   ],
-   "images": [],
-   "lines": [
-    "# TraceKit",
-    "",
-    "",
-    "### Zero-overhead OpenTelemetry trace viewer that runs entirely in the browser from JSONL trace dumps.",
-    "",
-    "TraceKit lets engineers inspect distributed traces locally without spinning",
-    "up heavy observability backends. Drop a trace file into the browser and",
-    "inspect flamegraphs, critical paths, and span attributes.",
-    "",
-    "Built with TypeScript · React · Canvas · OpenTelemetry",
-    "",
-    "[Visit](https://github.com/alexrivera/tracekit)"
-   ]
-  },
-  {
-   "repo": "schemasync",
-   "url": "https://github.com/alexrivera/schemasync",
-   "description": "Automated database migration validator that catches breaking schema changes and missing indexes in CI.",
-   "tag": "Tooling · Python",
+   "repo": "agentic-ai-data-scientist",
+   "url": "https://github.com/raghunath485",
+   "description": "Autonomous agent that investigates tabular datasets end-to-end with data profiling, model benchmarking, and automated reports.",
+   "tag": "Agentic AI · Streamlit · Python",
    "stars": null,
    "language": "Python",
    "pushed": null,
@@ -170,35 +32,47 @@
    "commits": null,
    "files": null,
    "counts": {},
-   "github": "https://github.com/alexrivera/schemasync",
+   "github": "https://github.com/raghunath485/Agentic-AI-Data-Scientist",
    "stack": [
     "Python",
-    "PostgreSQL",
-    "GitHub Actions"
+    "Scikit-learn",
+    "Streamlit",
+    "Plotly",
+    "Gemini API"
    ],
-   "images": [],
+   "images": [
+    {
+     "file": "shots/project-1.svg",
+     "source": "shots/project-1.svg",
+     "alt": "Agentic AI Data Scientist screenshot 1",
+     "xray": false
+    }
+   ],
    "lines": [
-    "# SchemaSync",
+    "# Agentic AI Data Scientist",
     "",
+    "\u0001IMG0\u0001",
     "",
-    "### Automated database migration validator that catches breaking schema changes and missing indexes in CI.",
+    "### Autonomous agent that investigates tabular datasets end-to-end with data profiling, model benchmarking, and automated reports.",
     "",
-    "SchemaSync parses SQL and ORM migrations in pull requests, simulates lock",
-    "contention against production table statistics, and posts actionable safety",
-    "reports.",
+    "An autonomous agent that inspects tabular datasets end-to-end: automated",
+    "data profiling with a 0–100 Data Health Score, leak-free preprocessing using",
+    "scikit-learn ColumnTransformer, and cross-validated benchmarking across",
+    "Logistic/Ridge, Random Forest, and HistGradientBoosting. Features Plotly",
+    "visualizations and LLM reasoning via Gemini and OpenAI APIs.",
     "",
-    "Built with Python · PostgreSQL · GitHub Actions",
+    "Built with Python · Scikit-learn · Streamlit · Plotly · Gemini API",
     "",
-    "[Visit](https://github.com/alexrivera/schemasync)"
+    "[Visit](https://github.com/raghunath485)"
    ]
   },
   {
-   "repo": "minikv",
-   "url": "https://github.com/alexrivera/minikv",
-   "description": "A minimal Raft-backed key-value store built to explore consensus algorithms and deterministic simulation testing.",
-   "tag": "Storage · C",
+   "repo": "mental-wellness-buddy",
+   "url": "https://github.com/raghunath485",
+   "description": "AI-powered mental wellness assistant with mood tracking, conversational support, positive affirmations, and guided breathing.",
+   "tag": "NLP · Streamlit · Python",
    "stars": null,
-   "language": "C",
+   "language": "Python",
    "pushed": null,
    "forks": null,
    "watchers": null,
@@ -209,63 +83,76 @@
    "commits": null,
    "files": null,
    "counts": {},
-   "github": "https://github.com/alexrivera/minikv",
+   "github": "https://github.com/raghunath485/Mental-Wellness-Buddy",
    "stack": [
-    "C",
+    "Python",
+    "Streamlit",
+    "NLP",
+    "Data Analysis"
+   ],
+   "images": [
+    {
+     "file": "shots/project-2.svg",
+     "source": "shots/project-2.svg",
+     "alt": "Mental Wellness Buddy screenshot 1",
+     "xray": false
+    }
+   ],
+   "lines": [
+    "# Mental Wellness Buddy",
+    "",
+    "\u0001IMG0\u0001",
+    "",
+    "### AI-powered mental wellness assistant with mood tracking, conversational support, positive affirmations, and guided breathing.",
+    "",
+    "An accessible AI-powered mental wellness companion built in Python and",
+    "Streamlit. Provides interactive chatbot support, mood journaling with trend",
+    "tracking, daily positive affirmations, and guided breathing exercises",
+    "deployed publicly for live web access.",
+    "",
+    "Built with Python · Streamlit · NLP · Data Analysis",
+    "",
+    "[Visit](https://github.com/raghunath485)"
+   ]
+  },
+  {
+   "repo": "nmap-gui-network-scanner",
+   "url": "https://github.com/raghunath485",
+   "description": "Intuitive Python desktop GUI for Nmap that automates network discovery, host detection, and port scanning.",
+   "tag": "Networking · Python · GUI",
+   "stars": null,
+   "language": "Python",
+   "pushed": null,
+   "forks": null,
+   "watchers": null,
+   "issues": null,
+   "license": null,
+   "created": null,
+   "branch": "main",
+   "commits": null,
+   "files": null,
+   "counts": {},
+   "github": "https://github.com/raghunath485/Nmap-GUI-Scanner",
+   "stack": [
+    "Python",
     "Networking",
-    "Raft"
+    "Nmap",
+    "Tkinter"
    ],
    "images": [],
    "lines": [
-    "# MiniKV",
+    "# Nmap GUI Network Scanner",
     "",
     "",
-    "### A minimal Raft-backed key-value store built to explore consensus algorithms and deterministic simulation testing.",
+    "### Intuitive Python desktop GUI for Nmap that automates network discovery, host detection, and port scanning.",
     "",
-    "MiniKV implements leader election, log replication, and snapshot compaction",
-    "in under 2,000 lines of C with a deterministic network simulator.",
+    "A user-friendly desktop GUI wrapper for Nmap built in Python. Replaces",
+    "complex command-line syntax with point-and-click network discovery, subnet",
+    "mapping, and multi-threaded port scanning.",
     "",
-    "Built with C · Networking · Raft",
+    "Built with Python · Networking · Nmap · Tkinter",
     "",
-    "[Visit](https://github.com/alexrivera/minikv)"
-   ]
-  },
-  {
-   "repo": "dotfiles",
-   "url": "https://github.com/alexrivera/dotfiles",
-   "description": "Modular Neovim, Fish shell, and tmux configuration tuned for fast keyboard-driven development.",
-   "tag": "Config · Neovim",
-   "stars": null,
-   "language": "Lua",
-   "pushed": null,
-   "forks": null,
-   "watchers": null,
-   "issues": null,
-   "license": null,
-   "created": null,
-   "branch": "main",
-   "commits": null,
-   "files": null,
-   "counts": {},
-   "github": "https://github.com/alexrivera/dotfiles",
-   "stack": [
-    "Lua",
-    "Neovim",
-    "Shell"
-   ],
-   "images": [],
-   "lines": [
-    "# Dotfiles",
-    "",
-    "",
-    "### Modular Neovim, Fish shell, and tmux configuration tuned for fast keyboard-driven development.",
-    "",
-    "Cross-platform terminal environment with custom Lua plugins, minimal LSP",
-    "setup, and synchronized color palettes.",
-    "",
-    "Built with Lua · Neovim · Shell",
-    "",
-    "[Visit](https://github.com/alexrivera/dotfiles)"
+    "[Visit](https://github.com/raghunath485)"
    ]
   }
  ],
@@ -604,83 +491,38 @@
  },
  "work": [
   {
-   "when": "06/2024 – present",
-   "title": "Senior Systems Engineer",
-   "org": "CloudScale",
-   "where": "San Francisco · Hybrid",
-   "desc": "Leading the distributed query execution engine and low-latency telemetry pipeline in Rust and Go.",
-   "url": "https://example.com/cloudscale"
+   "when": "07/2026 – 09/2026",
+   "title": "Intern – Infosys Springboard Internship 7.0 (Batch B2)",
+   "org": "Infosys Limited",
+   "where": "Virtual",
+   "desc": "Built an AI-Driven Cognitive Wake-Up Platform for Personalized Challenges and Habit Formation.",
+   "url": "https://github.com/raghunath485"
   },
   {
-   "when": "03/2022 – 05/2024",
-   "title": "Software Engineer",
-   "org": "DevFlow",
-   "where": "Remote",
-   "desc": "Built CLI developer tooling, local sandbox runtimes, and real-time build log streaming for 50k+ engineers.",
-   "url": "https://example.com/devflow"
-  },
-  {
-   "when": "01/2021 – present",
-   "title": "Core Maintainer",
-   "org": "OpenTrace",
-   "where": "Open source",
-   "desc": "Maintaining open-source distributed tracing SDKs and terminal visualization tools.",
-   "url": "https://github.com/alexrivera"
-  },
-  {
-   "when": "05/2020 – 08/2020",
-   "title": "Open Source Fellow",
-   "org": "SystemsLab",
-   "where": "Remote",
-   "desc": "Implemented zero-copy serialization primitives and benchmarked memory-mapped storage formats."
+   "when": "01/2026 – 02/2026",
+   "title": "AI & Machine Learning Intern",
+   "org": "AICTE – Edunet Foundation – IBM SkillsBuild",
+   "where": "Virtual",
+   "desc": "Covered core AI/ML workflows, data preprocessing, feature engineering, and model evaluation techniques.",
+   "url": "https://github.com/raghunath485"
   }
  ],
- "talks": [
-  {
-   "name": "Systems Conf",
-   "place": "San Francisco, USA",
-   "when": "Oct 2025",
-   "lat": 37.77,
-   "lon": -122.41,
-   "desc": "Building deterministic simulation harnesses for storage engines — catching race conditions before production.",
-   "url": "https://example.com/talk-1",
-   "photos": []
-  },
-  {
-   "name": "Open Source Summit",
-   "place": "London, UK",
-   "when": "May 2024",
-   "lat": 51.51,
-   "lon": -0.13,
-   "desc": "Designing zero-dependency developer tools that run fast on every platform.",
-   "url": "https://example.com/talk-2",
-   "photos": []
-  }
- ],
+ "talks": [],
  "links": [
   {
    "label": "Email",
-   "url": "mailto:hello@alexrivera.dev"
+   "url": "mailto:raghunathrp28@gmail.com"
   },
   {
    "label": "GitHub",
-   "url": "https://github.com/alexrivera"
+   "url": "https://github.com/raghunath485"
   },
   {
    "label": "LinkedIn",
-   "url": "https://www.linkedin.com/in/alexrivera"
-  },
-  {
-   "label": "X / Twitter",
-   "url": "https://x.com/alexrivera"
-  },
-  {
-   "label": "Blog",
-   "url": "https://alexrivera.dev/blog"
+   "url": "https://www.linkedin.com/in/raghunathpanda"
   }
  ],
  "more": [
-  "minikv",
-  "dotfiles"
+  "nmap-gui-network-scanner"
  ]
 }
