@@ -1,4 +1,4 @@
-import { prefersStill, onWidthResize, rng } from "/intros/shared/common.js";
+import { prefersStill, onWidthResize, rng } from "./intros/shared/common.js";
 
 const FONT_PX = 12;
 const CELL_W = 7.2;

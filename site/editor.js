@@ -35,7 +35,7 @@ const load = (url) =>
     if (!response.ok) throw new Error(`${url}: ${response.status}`);
     return response.json();
   });
-const [content, themeData, snapshot, stack, months] = await Promise.all([load("content.json"), load("/themes.json"), load("/github-snapshot.json"), load("stack.json").catch(() => null), load("months.json").catch(() => null)]);
+const [content, themeData, snapshot, stack, months] = await Promise.all([load("content.json"), load("../themes.json"), load("../github-snapshot.json"), load("stack.json").catch(() => null), load("months.json").catch(() => null)]);
 const themes = themeData.themes;
 const palettes = new Map(content.palettes.map((theme) => [key(theme.name), theme]));
 const days = snapshot.contributions.days;
@@ -699,7 +699,7 @@ function run(text) {
   const arg = rest.join(" ");
   if (!name) return say("");
   if (/^q(a|all)?!?$/.test(name) || name === "wq" || name === "x") {
-    location.href = "/";
+    location.href = "../";
     return;
   }
   if (name === "colorscheme" || name === "colo" || name === "theme") {
